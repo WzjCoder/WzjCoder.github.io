@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Zhijian Wang"
   pronouns         : # example: "she/her"  
-  bio              : "master student, Department of Computer Science and Engineering, SUSTech"
+  bio              : "Master student, Department of Computer Science and Engineering, SUSTech"
   location         : "Shenzhen, China"
   employer         : # "Red Brick University"
   uri              : # URL
-  email            : # "none@example.org" 
+  email            : "wangzhijian.4321@gmail.com" 
 
   # Academic websites
   academia         : # URL
