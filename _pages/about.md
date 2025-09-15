@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student majoring in Computer Science and Technology from [Southern University of Science and Technology](https://www.sustech.edu.cn/).
+I am a master student majoring in Computer Science and Technology from [Southern University of Science and Technology](https://www.sustech.edu.cn/), currently in the [Advanced Intelligent Mobile Systems Laboratory](https://jinzhang-sustech.github.io/lab/).
 
 # My research interests
 
