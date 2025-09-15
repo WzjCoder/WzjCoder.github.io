@@ -11,3 +11,4 @@ I am a master student majoring in Computer Science and Technology from [Southern
 
 # My research interests
 
+acoustic sensing, acoustic ranging, deep learning, reinforcement learning, large language model, multimodal model.
