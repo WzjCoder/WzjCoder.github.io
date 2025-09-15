@@ -11,4 +11,8 @@ I am a master student majoring in Computer Science and Technology from [Southern
 
 # My research interests
 
-acoustic sensing, acoustic ranging, deep learning, reinforcement learning, large language model, multimodal model.
+Acoustic sensing, acoustic ranging, deep learning, reinforcement learning, large language model, multimodal model.
+
+# Papers
+
+[LLM4Band: Enhancing Reinforcement Learning with Large Language Models for Accurate Bandwidth Estimation](https://dl.acm.org/doi/10.1145/3712678.3721880). **Wang Zhijian**, Lu Rongwei, Zhang Zhiyang, Westphal Cedric, He Dongbiao, Jiang Jingyan. NOSSDAV '25: Proceedings of the 35th Workshop on Network and Operating System Support for Digital Audio and Video.
