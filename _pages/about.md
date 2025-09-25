@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student majoring in Computer Science and Technology from [Southern University of Science and Technology](https://www.sustech.edu.cn/). I am honored to been invited by [Prof. Jin Zhang](https://jinzhang-sustech.github.io/) to join the [Advanced Intelligent Mobile Systems Laboratory](https://jinzhang-sustech.github.io/lab/).
+I am a master student majoring in Computer Science and Technology from [Southern University of Science and Technology](https://www.sustech.edu.cn/). I am honored to been advised by [Prof. Jin Zhang](https://jinzhang-sustech.github.io/) in the [Advanced Intelligent Mobile Systems Laboratory](https://jinzhang-sustech.github.io/lab/).
 
 # My research interests
 
